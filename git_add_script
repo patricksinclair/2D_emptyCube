@@ -1,0 +1,6 @@
+#!/bin/bash
+#adds all the relevant files to git
+git add git_add_script README.txt
+git add no_riblet/0 no_riblet/system no_riblet/constant
+git add no_riblet/run_script no_riblet/ball_run_script no_riblet/combine_script no_riblet/mpi_script_interFoam.sh
+git add no_riblet/parameters.dat 
